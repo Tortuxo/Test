@@ -1,1 +1,1 @@
-print("Bite")
+print("Salut mon gars t'es trop chaud")
